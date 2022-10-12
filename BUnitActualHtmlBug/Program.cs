@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using BUnitMarkupMatchesBug.Data;
+using BUnitActualHtmlBug.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

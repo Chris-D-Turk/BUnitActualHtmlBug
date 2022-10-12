@@ -1,4 +1,4 @@
-namespace BUnitMarkupMatchesBug.Data;
+namespace BUnitActualHtmlBug.Data;
 
 public class WeatherForecastService
 {

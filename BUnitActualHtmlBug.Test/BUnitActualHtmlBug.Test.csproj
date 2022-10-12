@@ -30,7 +30,7 @@
 
 
 	<ItemGroup>
-	  <ProjectReference Include="..\BUnitMarkupMatchesBug\BUnitMarkupMatchesBug.csproj" />
+	  <ProjectReference Include="..\BUnitActualHtmlBug\BUnitActualHtmlBug.csproj" />
 	</ItemGroup>
 
 

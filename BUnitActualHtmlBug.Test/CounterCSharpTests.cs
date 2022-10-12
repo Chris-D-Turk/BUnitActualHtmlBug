@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
-using BUnitMarkupMatchesBug.Pages;
+using BUnitActualHtmlBug.Pages;
 
-namespace BUnitMarkupMatchesBug.Test;
+namespace BUnitActualHtmlBug.Test;
 
 /// <summary>
 /// These tests are written entirely in C#.

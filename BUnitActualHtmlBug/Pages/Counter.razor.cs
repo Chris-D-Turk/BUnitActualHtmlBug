@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Components;
 
-namespace BUnitMarkupMatchesBug.Pages;
+namespace BUnitActualHtmlBug.Pages;
 
 public partial class Counter : ComponentBase
 {

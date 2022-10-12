@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUnitMarkupMatchesBug", "BUnitMarkupMatchesBug\BUnitMarkupMatchesBug.csproj", "{71419D2A-0B34-4BD3-BF9E-CE90E52AD023}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUnitActualHtmlBug", "BUnitActualHtmlBug\BUnitActualHtmlBug.csproj", "{71419D2A-0B34-4BD3-BF9E-CE90E52AD023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUnitMarkupMatchesBug.Test", "BUnitMarkupMatchesBug.Test\BUnitMarkupMatchesBug.Test.csproj", "{6AAF25FC-A11B-4B3D-B7D7-D02EF613222A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUnitActualHtmlBug.Test", "BUnitActualHtmlBug.Test\BUnitActualHtmlBug.Test.csproj", "{6AAF25FC-A11B-4B3D-B7D7-D02EF613222A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
