@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Components;
+
+namespace BUnitMarkupMatchesBug.Pages;
+
+public partial class Counter : ComponentBase
+{
+    private int currentCount = 0;
+
+    private async Task IncrementCount()
+    {
+        await Task.Delay(100);
+        currentCount++;
+    }
+}
