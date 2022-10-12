@@ -12,7 +12,7 @@ public partial class Counter : ComponentBase
 
     private async Task IncrementCount()
     {
-        await Task.Delay(100);
+        await Task.Delay(10);
         currentCount++;
     }
 }

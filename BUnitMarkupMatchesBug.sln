@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUnitMarkupMatchesBug", "BUnitMarkupMatchesBug\BUnitMarkupMatchesBug.csproj", "{71419D2A-0B34-4BD3-BF9E-CE90E52AD023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUnitMarkupMatchesBug.Test", "BUnitMarkupMatchesBug.Test\BUnitMarkupMatchesBug.Test.csproj", "{6AAF25FC-A11B-4B3D-B7D7-D02EF613222A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{71419D2A-0B34-4BD3-BF9E-CE90E52AD023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71419D2A-0B34-4BD3-BF9E-CE90E52AD023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71419D2A-0B34-4BD3-BF9E-CE90E52AD023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAF25FC-A11B-4B3D-B7D7-D02EF613222A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAF25FC-A11B-4B3D-B7D7-D02EF613222A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAF25FC-A11B-4B3D-B7D7-D02EF613222A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAF25FC-A11B-4B3D-B7D7-D02EF613222A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
